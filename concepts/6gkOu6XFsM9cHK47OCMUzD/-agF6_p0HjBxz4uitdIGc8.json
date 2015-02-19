@@ -1,0 +1,13 @@
+{
+  "uri" : "local://-agF6_p0HjBxz4uitdIGc8/",
+  "name" : "copy of Custom Contacts Folder",
+  "category" : "",
+  "parent" : "local://6gkOu6XFsM9cHK47OCMUzD/",
+  "flags" : "U",
+  "lvars" : [ ],
+  "vars" : [ ],
+  "isas" : [ {
+    "concept" : "/conceptjs/default/9gVJFQNZ1SBb0KDZfebk05/"
+  } ],
+  "isLambda" : false
+}

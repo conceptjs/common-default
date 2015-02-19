@@ -1,0 +1,38 @@
+{
+  "uri" : "local://Hyu4_cAjNf83H43GEupJ-C/",
+  "name" : "Test User (Contact)",
+  "category" : "",
+  "parent" : "local://-agF6_p0HjBxz4uitdIGc8/",
+  "flags" : "U",
+  "lvars" : [ ],
+  "vars" : [ {
+    "name" : "_contact_firstName",
+    "expr" : {
+      "str" : "Test"
+    }
+  }, {
+    "name" : "_contact_lastName",
+    "expr" : {
+      "str" : "User"
+    }
+  }, {
+    "name" : "_contact_email",
+    "expr" : {
+      "str" : "testuser@foo.com"
+    }
+  }, {
+    "name" : "contact",
+    "expr" : {
+      "concept" : "/conceptjs/default/Ys73xC4LwL9YkK9Xhv3P82/",
+      "bindings" : {
+        "firstName" : "_contact_firstName",
+        "lastName" : "_contact_lastName",
+        "email" : "_contact_email"
+      }
+    }
+  } ],
+  "isas" : [ {
+    "var" : "contact"
+  } ],
+  "isLambda" : false
+}

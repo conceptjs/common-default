@@ -1,0 +1,26 @@
+{
+  "uri" : "local://m1SCkfJrEXAY4aqi4Ddno9/",
+  "name" : "common's University",
+  "category" : ".courses",
+  "parent" : "local://6gkOu6XFsM9cHK47OCMUzD/",
+  "flags" : "U",
+  "lvars" : [ ],
+  "vars" : [ {
+    "name" : "_courseIndex_lastVisitCourse",
+    "expr" : {
+      "str" : "local://EvNoqLSROd8n5aRG79lDTB/"
+    }
+  }, {
+    "name" : "courseIndex",
+    "expr" : {
+      "concept" : "/common/univ/Im-hwEGR8wB4_4Q6c20se6/",
+      "bindings" : {
+        "lastVisitCourse" : "_courseIndex_lastVisitCourse"
+      }
+    }
+  } ],
+  "isas" : [ {
+    "var" : "courseIndex"
+  } ],
+  "isLambda" : false
+}

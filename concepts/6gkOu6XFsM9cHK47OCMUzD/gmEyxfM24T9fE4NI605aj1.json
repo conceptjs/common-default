@@ -1,0 +1,23 @@
+{
+  "uri" : "local://gmEyxfM24T9fE4NI605aj1/",
+  "name" : "common's first ConceptJS app",
+  "category" : "",
+  "parent" : "local://6gkOu6XFsM9cHK47OCMUzD/",
+  "flags" : "U",
+  "lvars" : [ ],
+  "vars" : [ {
+    "name" : "className",
+    "expr" : {
+      "str" : "math"
+    }
+  }, {
+    "name" : "teacherName",
+    "expr" : {
+      "str" : "Mr. Tim"
+    }
+  } ],
+  "isas" : [ {
+    "concept" : "local://gBuJYB8GPZBt-K80u4b9GF/"
+  } ],
+  "isLambda" : false
+}
